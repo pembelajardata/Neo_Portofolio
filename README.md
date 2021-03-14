@@ -41,11 +41,19 @@ melihat hubungan target dengan kategori-kategori
 
 ## Categorical Data
 
+![alt text](https://github.com/pembelajardata/Neu_Portofolio/blob/main/Categorical%20Data.png)
+
 ## Balancing Data
+
+![alt_text](https://github.com/pembelajardata/Neu_Portofolio/blob/main/Balancing%20Data1.png)
 
 ## Classification Selection
 
+![alt_text](https://github.com/pembelajardata/Neu_Portofolio/blob/main/Classification%20Selection.png)
+
 ## Spliting & Scaling Data
+
+![alt_text](https://github.com/pembelajardata/Neu_Portofolio/blob/main/Spliting%20%26%20Scaling%20Data.png)
 
 ## Modeling
 
@@ -60,9 +68,6 @@ melihat hubungan target dengan kategori-kategori
 ## Kesimpulan
 1. Dari beberapa model klasifikasi yang diuji untuk memprediksi “Job change of Data Scientist” diperoleh hasil terbaik dengan menggunakan model klasifikasi Gradient Boosting dengan hasil precision prediksi mencapai 83%, dan setelah dilakukan hyperparameter tunning mencapai 79%.
 2. Faktor-faktor yang dapat digunakan untuk menentukan apakah seseorang akan bekerja untuk perusahaan setelah mengikuti pelatihan dan tidak akan mencari pekerjaan baru antara lain kota, indeks perkembangan kota (CDI), total pengalaman dalam beberapa tahun, jenis kelamin laki-laki, serta memiliki pengalaman yang relevan. 
-![image](https://user-images.githubusercontent.com/80607564/111065741-d58f8380-84ed-11eb-94ce-02fcc7abe4a2.png)
-
-
 
 
 

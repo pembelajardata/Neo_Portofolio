@@ -4,6 +4,7 @@ Final Project Data Science SA
 
 # TUGAS AKHIR 
 ## HR ANALYTICS : JOB CHANGE OF  DATA SCIENTISTS
+![alt text](https://https://greatpeopleinside.com/wp-content/uploads/2019/06/analytics-1030x618.jpg)
 
 ## Latar belakang
 * Proses rekrutmen Data Scientist.

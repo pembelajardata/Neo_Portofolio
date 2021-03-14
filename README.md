@@ -24,3 +24,9 @@ untuk mengaplikasikan supervised learning dalam memahami hal-hal sebagai berikut
 * Sebagai referensi literatur bagi pembelajaran data science, khususnya machine learning.
 * Sebagai pijakan pada project selanjutnya yang berhubungan dengan pengaplikasian  machine learning di bidang lainnya.
 
+## EDA
+I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables. 
+
+![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/salary_by_job_title.PNG "Salary by Position")
+![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/positions_by_state.png "Job Opportunities by State")
+![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/correlation_visual.png "Correlations")

@@ -24,7 +24,9 @@ untuk mengaplikasikan supervised learning dalam memahami hal-hal sebagai berikut
 * Sebagai referensi literatur bagi pembelajaran data science, khususnya machine learning.
 * Sebagai pijakan pada project selanjutnya yang berhubungan dengan pengaplikasian  machine learning di bidang lainnya.
 
+***
 ## EDA
+***
 melihat hubungan target dengan kategori-kategori  
 
 ![alt text](https://github.com/pembelajardata/Neu_Portofolio/blob/main/EDA1.png)

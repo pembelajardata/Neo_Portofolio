@@ -53,9 +53,6 @@ melihat hubungan target dengan kategori-kategori
 
 
 
-![image](https://user-images.githubusercontent.com/80607564/111066239-80a13c80-84f0-11eb-9d9a-91f3ae7c516c.png)
-
-
 ## Categorical Data
 
 ![alt text](https://github.com/pembelajardata/Neu_Portofolio/blob/main/Categorical%20Data.png)

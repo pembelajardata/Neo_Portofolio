@@ -28,7 +28,7 @@ untuk mengaplikasikan supervised learning dalam memahami hal-hal sebagai berikut
 melihat hubungan target dengan kategori-kategori  
 
 ![alt text](https://github.com/pembelajardata/Neu_Portofolio/blob/main/EDA1.png)
-![alt text]https://github.com/pembelajardata/Neu_Portofolio/blob/main/EDA2.png)
+![alt text](https://github.com/pembelajardata/Neu_Portofolio/blob/main/EDA2.png)
 ![alt text](https://github.com/pembelajardata/Neu_Portofolio/blob/main/EDA4.png)
 ![alt text](https://github.com/pembelajardata/Neu_Portofolio/blob/main/EDA5.png)
 ![alt text](https://github.com/pembelajardata/Neu_Portofolio/blob/main/EDA6.png)

@@ -28,7 +28,7 @@ untuk mengaplikasikan supervised learning dalam memahami hal-hal sebagai berikut
 ***
 ## EDA
 ***
-melihat hubungan target dengan kategori-kategori  
+melihat hubungan target terhadap kategori-kategori  
 
 ![alt text](https://github.com/pembelajardata/Neu_Portofolio/blob/main/EDA1.png)
 ![alt text](https://github.com/pembelajardata/Neu_Portofolio/blob/main/EDA2.png)

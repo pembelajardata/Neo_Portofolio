@@ -112,11 +112,25 @@ Dataset URL : https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-sc
 
 ### LogisticRegression
 
+![alt text](https://github.com/pembelajardata/Neo_Portofolio/blob/main/model.png)
+
+
 ### RandomForest
+
+![alt text](https://github.com/pembelajardata/Neo_Portofolio/blob/main/model1.png)
+
 
 ### Gradient Boosting
 
+![alt text](https://github.com/pembelajardata/Neo_Portofolio/blob/main/model2.png)
+
+
 ### XGBoosting
+
+![alt text](https://github.com/pembelajardata/Neo_Portofolio/blob/main/model3.png)
+
+
+![alt text](https://github.com/pembelajardata/Neo_Portofolio/blob/main/model4.png)
 
 ### Model terbaik : Gradient Boosting dengan score 83,29%
 

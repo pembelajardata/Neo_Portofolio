@@ -46,11 +46,27 @@ Dataset URL : https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-sc
 * training_hours: jam pelatihan yang telah diikuti
 * target: 0 – **Not looking for job change**,             1 – Looking for a job change
 
+![alt text](https://github.com/pembelajardata/Neu_Portofolio/blob/main/dataset.png)
+
+![alt text](https://github.com/pembelajardata/Neu_Portofolio/blob/main/dataset_info_1.png)
+
+![alt text](https://github.com/pembelajardata/Neu_Portofolio/blob/main/Dataset1.PNG)
+
+![alt text](https://github.com/pembelajardata/Neu_Portofolio/blob/main/Dataset2.PNG)
+
+![alt text](https://github.com/pembelajardata/Neu_Portofolio/blob/main/Dataset3.PNG)
+
+
+
+## Data Preprocessing & Exploratory Data Analysis
+
+### Missing Value
+![alt text](https://github.com/pembelajardata/Neu_Portofolio/blob/main/Missing_value.png)
 
 ***
-## EDA
+### EDA
 ***
-melihat hubungan target terhadap kategori-kategori  
+**melihat hubungan target terhadap kategori-kategori  
 
 ![alt text](https://github.com/pembelajardata/Neu_Portofolio/blob/main/EDA1.png)
 ![alt text](https://github.com/pembelajardata/Neu_Portofolio/blob/main/EDA2.png)

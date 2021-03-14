@@ -66,7 +66,7 @@ Dataset URL : https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-sc
 ***
 ### EDA
 ***
-**melihat hubungan target terhadap kategori-kategori  
+**melihat hubungan target terhadap kategori-kategori**  
 
 ![alt text](https://github.com/pembelajardata/Neu_Portofolio/blob/main/EDA1.png)
 ![alt text](https://github.com/pembelajardata/Neu_Portofolio/blob/main/EDA2.png)

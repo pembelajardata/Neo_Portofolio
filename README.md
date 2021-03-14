@@ -112,7 +112,7 @@ melihat hubungan target terhadap kategori-kategori
 ![alt_text](https://github.com/pembelajardata/Neu_Portofolio/blob/main/Hyperparameter-Tuning-3.png)
 
 ## Kesimpulan
-1. Dari beberapa model klasifikasi yang diuji untuk memprediksi “Job change of Data Scientist” diperoleh hasil terbaik dengan menggunakan model klasifikasi Gradient Boosting dengan hasil precision prediksi mencapai 83%, dan setelah dilakukan hyperparameter tunning mencapai 79%.
+1. Dari beberapa model klasifikasi yang diuji untuk memprediksi “Job change of Data Scientist” diperoleh hasil terbaik dengan menggunakan model klasifikasi **Gradient Boosting** dengan hasil precision prediksi mencapai **83%**, dan setelah dilakukan **hyperparameter tunning** mencapai **79%**.
 2. Faktor-faktor yang dapat digunakan untuk menentukan apakah seseorang akan bekerja untuk perusahaan setelah mengikuti pelatihan dan tidak akan mencari pekerjaan baru antara lain kota, indeks perkembangan kota (CDI), total pengalaman dalam beberapa tahun, jenis kelamin laki-laki, serta memiliki pengalaman yang relevan. 
 
 

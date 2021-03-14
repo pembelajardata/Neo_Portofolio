@@ -25,8 +25,16 @@ untuk mengaplikasikan supervised learning dalam memahami hal-hal sebagai berikut
 * Sebagai pijakan pada project selanjutnya yang berhubungan dengan pengaplikasian  machine learning di bidang lainnya.
 
 ## EDA
-I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables. 
+melihat hubungan target dengan kategori-kategori  
 
 ![alt text](https://github.com/pembelajardata/Neu_Portofolio/blob/main/EDA1.png)
 ![alt text]https://github.com/pembelajardata/Neu_Portofolio/blob/main/EDA2.png)
-![alt text](https://github.com/pembelajardata/Neu_Portofolio/blob/main/EDA3.png)
+![alt text](https://github.com/pembelajardata/Neu_Portofolio/blob/main/EDA4.png)
+![alt text](https://github.com/pembelajardata/Neu_Portofolio/blob/main/EDA5.png)
+![alt text](https://github.com/pembelajardata/Neu_Portofolio/blob/main/EDA6.png)
+![alt text](https://github.com/pembelajardata/Neu_Portofolio/blob/main/EDA7.png)
+![alt text](https://github.com/pembelajardata/Neu_Portofolio/blob/main/EDA8.png)
+![alt text](https://github.com/pembelajardata/Neu_Portofolio/blob/main/EDA9.png)
+![alt text](https://github.com/pembelajardata/Neu_Portofolio/blob/main/EDA10.png)
+![alt text](https://github.com/pembelajardata/Neu_Portofolio/blob/main/EDA11.png)
+![alt text](https://github.com/pembelajardata/Neu_Portofolio/blob/main/EDA12.png)

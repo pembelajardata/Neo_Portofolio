@@ -5,6 +5,7 @@ Final Project Data Science SA
 # TUGAS AKHIR 
 ## HR ANALYTICS : JOB CHANGE OF  DATA SCIENTISTS
 ![alt text](https://greatpeopleinside.com/wp-content/uploads/2019/06/analytics-1030x618.jpg)
+*Perusahaan yang bergerak di bidang Big Data dan Ilmu Data ingin mempekerjakan data scientist di antara orang-orang yang berhasil lulus dari beberapa kursus yang diselenggarakan oleh perusahaan. Banyak orang mendaftar untuk pelatihan yang diselenggarakan. Perusahaan ingin mengetahui kandidat mana yang benar-benar ingin bekerja untuk perusahaan setelah mengikuti pelatihan atau mencari pekerjaan baru, karena dimana dapat membantu mengurangi biaya dan waktu dalam pencarian kandidat yang berkualitas.*
 
 ## Latar belakang
 * Proses rekrutmen Data Scientist.
@@ -78,6 +79,15 @@ melihat hubungan target dengan kategori-kategori
 ### Gradient Boosting
 
 ### XGBoosting
+
+### Model terbaik : Gradient Boosting dengan score 83,29%
+
+
+## Hyperparameter Tuning
+
+![alt_text](https://github.com/pembelajardata/Neu_Portofolio/blob/main/Hyperparameter-Tuning-1.png)
+![alt_text](https://github.com/pembelajardata/Neu_Portofolio/blob/main/Hyperparameter-Tuning-2.png)
+![alt_text](https://github.com/pembelajardata/Neu_Portofolio/blob/main/Hyperparameter-Tuning-3.png)
 
 ## Kesimpulan
 1. Dari beberapa model klasifikasi yang diuji untuk memprediksi “Job change of Data Scientist” diperoleh hasil terbaik dengan menggunakan model klasifikasi Gradient Boosting dengan hasil precision prediksi mencapai 83%, dan setelah dilakukan hyperparameter tunning mencapai 79%.

@@ -25,6 +25,28 @@ untuk mengaplikasikan supervised learning dalam memahami hal-hal sebagai berikut
 * Sebagai referensi literatur bagi pembelajaran data science, khususnya machine learning.
 * Sebagai pijakan pada project selanjutnya yang berhubungan dengan pengaplikasian  machine learning di bidang lainnya.
 
+## Data Understanding & Cleaning
+
+### Data Set
+Dataset URL : https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists
+
+### Fitur
+* enrollee_id :  ID unik kandidat
+* city:  kode kota
+* city_ development _index :  indeks perkembangan kota (CDI) 
+* gender:  jenis kelamin 
+* relevent_experience: pengalaman yang relevan 
+* enrolled_university: jenis kursus pada universitas yang terdaftar jika ada 
+* education_level: tingkat pendidikan
+* major_discipline: bidang studi pendidikan
+* experience: total pengalaman kandidat dalam beberapa tahun
+* company_size: jumlah karyawan di perusahaan pemberi kerja saat ini 
+* company_type : jenis pemberi kerja saat ini
+* lastnewjob: perbedaan tahun antara pekerjaan sebelumnya dan pekerjaan saat ini
+* training_hours: jam pelatihan yang telah diikuti
+* target: 0 – **Not looking for job change**,             1 – Looking for a job change
+
+
 ***
 ## EDA
 ***

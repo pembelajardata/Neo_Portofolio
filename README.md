@@ -27,6 +27,6 @@ untuk mengaplikasikan supervised learning dalam memahami hal-hal sebagai berikut
 ## EDA
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables. 
 
-![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/salary_by_job_title.PNG "Salary by Position")
-![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/positions_by_state.png "Job Opportunities by State")
-![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/correlation_visual.png "Correlations")
+![alt text](https://github.com/pembelajardata/Neu_Portofolio/blob/main/EDA1.png)
+![alt text]https://github.com/pembelajardata/Neu_Portofolio/blob/main/EDA2.png)
+![alt text](https://github.com/pembelajardata/Neu_Portofolio/blob/main/EDA3.png)

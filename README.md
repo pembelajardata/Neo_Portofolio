@@ -40,6 +40,20 @@ melihat hubungan target dengan kategori-kategori
 ![alt text](https://github.com/pembelajardata/Neu_Portofolio/blob/main/EDA10.png)
 ![alt text](https://github.com/pembelajardata/Neu_Portofolio/blob/main/EDA11.png)
 ![alt text](https://github.com/pembelajardata/Neu_Portofolio/blob/main/EDA12.png)
+Distribusi untuk jumlah jam pelatihan cenderung positively skewed dengan nilai mean lebih besar  dari median.
+
+
+### Hasil pengamatan:
+1. Ada kemungkinan jenis kelamin tidak dapat menjadi prediktor yang baik untuk orang yang ingin berganti pekerjaan.
+2. Jika seseorang tidak memiliki pengalaman relevan sebelumnya, kemungkinan besar dia akan mencari pekerjaan baru.
+3. Mereka yang mendaftar untuk kursus penuh waktu lebih cenderung mencari pekerjaan baru.
+4. Mereka yang memiliki sedikit atau tanpa pengalaman kerja (yaitu, pengalaman kerja kurang dari 1 tahun) adalah yang paling mungkin untuk mencari pekerjaan baru, dengan kata lain, semakin banyak pengalaman yang Anda miliki, semakin kecil kemungkinan Anda akan mencari pekerjaan. untuk pekerjaan baru.
+5. Perbedaan tahun antara pekerjaan sebelumnya dan pekerjaan saat ini, berkorelasi negatif dengan kemungkinan mencari pekerjaan baru, semakin besar jangka waktu pekerjaan yang Anda miliki sebelumnya, semakin kecil kemungkinan Anda mencari pekerjaan baru. 
+6. CDI memberikan insight, secara umum semakin kecil CDI, semakin besar kemungkinan dia akan melakukannya. mencari pekerjaan baru. 
+
+
+![image](https://user-images.githubusercontent.com/80607564/111066239-80a13c80-84f0-11eb-9d9a-91f3ae7c516c.png)
+
 
 ## Categorical Data
 

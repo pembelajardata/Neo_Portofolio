@@ -4,7 +4,6 @@ Final Project Data Science SA
 
 # TUGAS AKHIR 
 ## HR ANALYTICS : JOB CHANGE OF  DATA SCIENTISTS
-![exit](https://greatpeopleinside.com/wp-content/uploads/2019/06/analytics-1030x618.jpg)
 
 ## Latar belakang
 * Proses rekrutmen Data Scientist.
@@ -15,7 +14,6 @@ Final Project Data Science SA
 untuk mengaplikasikan supervised learning dalam memahami hal-hal sebagai berikut:
 * Prediksi adanya kemungkinan seseorang untuk mencari pekerjaan baru.
 * Identifikasi faktor yang berpengaruh kepada keputusan karyawan.
-![image](https://user-images.githubusercontent.com/80607564/111061425-f055fe00-84d5-11eb-93f6-7f13e1656fc5.png)
 
 ## Manfaat
 ### Praktis
